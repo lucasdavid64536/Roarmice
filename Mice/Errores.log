@@ -1,0 +1,94 @@
+﻿
+========================================
+- Time: 14:29:00
+- IP: 127.0.0.1
+- Jogador: Teste
+- Error: 
+Traceback (most recent call last):
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Source.py", line 372, in parseString
+    this.parsePackets.parsePacket(C, CC, packet[3:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\ParsePackets.py", line 818, in parsePacket
+    this.client.tribulle.parseTribulleCode(code, packet)
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 103, in parseTribulleCode
+    this.sendTribeList(packet[2:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 663, in sendTribeList
+    p.writeInt(int(info[1]))
+IndexError: list index out of range
+
+========================================
+- Time: 14:29:40
+- IP: 127.0.0.1
+- Jogador: Teste
+- Error: 
+Traceback (most recent call last):
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Source.py", line 372, in parseString
+    this.parsePackets.parsePacket(C, CC, packet[3:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\ParsePackets.py", line 818, in parsePacket
+    this.client.tribulle.parseTribulleCode(code, packet)
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 103, in parseTribulleCode
+    this.sendTribeList(packet[2:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 663, in sendTribeList
+    p.writeInt(int(info[1]))
+IndexError: list index out of range
+
+========================================
+- Time: 14:29:49
+- IP: 127.0.0.1
+- Jogador: Teste
+- Error: 
+Traceback (most recent call last):
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Source.py", line 372, in parseString
+    this.parsePackets.parsePacket(C, CC, packet[3:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\ParsePackets.py", line 818, in parsePacket
+    this.client.tribulle.parseTribulleCode(code, packet)
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 103, in parseTribulleCode
+    this.sendTribeList(packet[2:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 663, in sendTribeList
+    p.writeInt(int(info[1]))
+IndexError: list index out of range
+
+========================================
+- Time: 14:29:53
+- IP: 127.0.0.1
+- Jogador: Teste
+- Error: 
+Traceback (most recent call last):
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Source.py", line 372, in parseString
+    this.parsePackets.parsePacket(C, CC, packet[3:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\ParsePackets.py", line 818, in parsePacket
+    this.client.tribulle.parseTribulleCode(code, packet)
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 103, in parseTribulleCode
+    this.sendTribeList(packet[2:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 663, in sendTribeList
+    p.writeInt(int(info[1]))
+IndexError: list index out of range
+
+========================================
+- Time: 14:30:02
+- IP: 127.0.0.1
+- Jogador: Teste
+- Error: 
+Traceback (most recent call last):
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Source.py", line 372, in parseString
+    this.parsePackets.parsePacket(C, CC, packet[3:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\ParsePackets.py", line 818, in parsePacket
+    this.client.tribulle.parseTribulleCode(code, packet)
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 103, in parseTribulleCode
+    this.sendTribeList(packet[2:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\Tribulle.py", line 663, in sendTribeList
+    p.writeInt(int(info[1]))
+IndexError: list index out of range
+
+========================================
+- Time: 14:34:02
+- IP: 127.0.0.1
+- Jogador: Teste
+- Error: 
+Traceback (most recent call last):
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Source.py", line 372, in parseString
+    this.parsePackets.parsePacket(C, CC, packet[3:])
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\ParsePackets.py", line 722, in parsePacket
+    this.client.parseCommands.parseCommand(command)
+  File "C:\Users\Angela Maria\Desktop\Transformice Pirata\Source 1.373 By Andriel9 e Legion\Modulos\ParseCommands.py", line 879, in parseCommand
+    mapInfo = this.client.room.getMapInfo(int(code[1:]))
+ValueError: invalid literal for int() with base 10: 'Unex'
